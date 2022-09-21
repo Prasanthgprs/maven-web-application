@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases nNexus Repository</name>
-	      <url>http://3.108.223.130:8081/repository/pras-release/</url>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url>http://43.205.114.236:8081/repository/pras-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.108.223.130:8081/repository/pras-snapshot/</url>
+	      <url>http://43.205.114.236:8081/repository/pras-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

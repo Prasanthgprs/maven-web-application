@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Technologies Snapshot Nexus Repository </name>
 	      <url>http://43.205.114.236:8081/repository/pras-snapshot/</url>
 	    </snapshotRepository>
 	    
